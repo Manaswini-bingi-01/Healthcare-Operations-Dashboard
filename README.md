@@ -91,3 +91,44 @@ KPI Analysis
 Interactive Dashboard
         ↓
 Business Insights
+
+## 📷 Dashboard Preview
+
+![Healthcare Operations Dashboard](Dashboard_Screenshot.png)
+
+## 💡 Key Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Advanced Excel
+- PivotTables
+- PivotCharts
+- Excel Slicers
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Reporting
+- Analytical Thinking
+- Data Interpretation
+
+## 📂 Project Files
+
+### Healthcare_Operations_Dashboard.xlsx
+
+Complete Excel workbook containing the raw data, data cleaning, KPI analysis, PivotTables, and interactive dashboard.
+
+### Dashboard_Screenshot.png
+
+Preview image of the final Healthcare Operations Dashboard.
+
+## 📌 Project Outcome
+
+This project demonstrates how raw healthcare operational data can be transformed into an interactive and professional analytical dashboard using Microsoft Excel.
+
+The dashboard enables users to explore healthcare performance through dynamic KPIs, interactive filters, and visual analysis.
+
+## 👩‍💻 Author
+
+**Manaswini Bingi**
+
+Data & Business Analyst | Data Analysis | Business Intelligence | Excel | SQL | Power BI
