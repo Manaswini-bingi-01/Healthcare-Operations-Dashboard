@@ -2,20 +2,21 @@
 
 ## 📊 Project Overview
 
-The Healthcare Operations Dashboard is an interactive Excel-based analytics project designed to monitor and analyze healthcare operational performance.
+The Healthcare Operations Dashboard is an interactive Excel-based data analytics project designed to analyze and monitor healthcare operational performance.
 
-The dashboard transforms raw healthcare data into meaningful KPIs and interactive visualizations, helping users understand patient visits, revenue, billing, waiting time, satisfaction levels, and department performance.
+The project transforms raw healthcare data into meaningful KPIs, PivotTables, and interactive visualizations to provide a clear view of patient visits, revenue, billing, waiting time, satisfaction, and department performance.
 
 ## 🎯 Project Objectives
 
-- Analyze healthcare visit and operational data
-- Track important healthcare KPIs
+- Analyze healthcare operational data
+- Track key healthcare performance indicators
 - Monitor revenue and billing performance
 - Analyze patient waiting times
-- Understand patient satisfaction
-- Compare department and visit-type performance
-- Provide interactive filtering for better data exploration
-- Build a professional dashboard suitable for business reporting
+- Understand patient satisfaction levels
+- Compare department performance
+- Analyze different visit types
+- Provide interactive data exploration using slicers
+- Build a professional healthcare analytics dashboard
 
 ## 🛠️ Tools & Technologies
 
@@ -23,27 +24,27 @@ The dashboard transforms raw healthcare data into meaningful KPIs and interactiv
 - PivotTables
 - PivotCharts
 - Excel Slicers
-- Advanced Excel
 - Data Cleaning
 - Data Analysis
+- KPI Analysis
 - Data Visualization
-- KPI Reporting
+- Dashboard Development
 
 ## 📁 Workbook Structure
 
-The Excel workbook contains the following sheets:
+The workbook contains five main sheets:
 
 | Sheet | Description |
 |---|---|
 | Raw_Data | Original healthcare operational data |
-| Data_Cleaning | Data preparation and cleaning |
+| Data_Cleaning | Cleaned and prepared data |
 | KPI_Analysis | KPI calculations and analysis |
 | Pivot tables | PivotTables used for analysis and dashboard visuals |
-| Healthcare_Dashboard | Final interactive dashboard |
+| Healthcare_Dashboard | Final interactive healthcare dashboard |
 
 ## 📌 Key KPIs
 
-The dashboard tracks:
+The dashboard tracks the following key performance indicators:
 
 - Total Visits
 - Total Revenue
@@ -54,9 +55,9 @@ The dashboard tracks:
 
 ## 📈 Dashboard Features
 
-### Interactive Filters
+### Interactive Slicers
 
-The dashboard includes slicers for:
+Users can filter and explore the dashboard using:
 
 - Insurance Type
 - City
@@ -64,7 +65,7 @@ The dashboard includes slicers for:
 - Payment Status
 - Visit Type
 
-These filters allow users to interactively explore healthcare operations and dynamically analyze the KPIs and visualizations.
+The KPI values and dashboard analysis dynamically respond to the selected filters.
 
 ### Visualizations
 
@@ -77,19 +78,18 @@ The dashboard includes:
 
 ## 🔄 Project Workflow
 
-```text
-Raw Healthcare Data
-        ↓
-Data Cleaning
-        ↓
-Data Preparation
-        ↓
-PivotTables
-        ↓
-KPI Analysis
-        ↓
-Interactive Dashboard
-        ↓
+Raw Healthcare Data  
+↓  
+Data Cleaning  
+↓  
+Data Preparation  
+↓  
+PivotTables  
+↓  
+KPI Analysis  
+↓  
+Interactive Dashboard  
+↓  
 Business Insights
 
 ## 📷 Dashboard Preview
